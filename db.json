@@ -9,9 +9,8 @@
     "name": "typicode"
   }
 },
-"usuarios":
-{
-  "usuarios": [
+"usuarios" :
+{ [
     {
   "id": 1,
   "nombre": "Ethyl",
