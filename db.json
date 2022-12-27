@@ -1,0 +1,52 @@
+{"usuarios":[{
+  "id": 1,
+  "nombre": "Ethyl",
+  "apellido": "Chatan",
+  "email": "echatan0@phpbb.com"
+}, {
+  "id": 2,
+  "nombre": "Tobe",
+  "apellido": "Morrall",
+  "email": "tmorrall1@yale.edu"
+}, {
+  "id": 3,
+  "nombre": "Zelig",
+  "apellido": "Vanichev",
+  "email": "zvanichev2@soundcloud.com"
+}, {
+  "id": 4,
+  "nombre": "Sallie",
+  "apellido": "Neachell",
+  "email": "sneachell3@shinystat.com"
+}, {
+  "id": 5,
+  "nombre": "Cassius",
+  "apellido": "Bilsford",
+  "email": "cbilsford4@nationalgeographic.com"
+}, {
+  "id": 6,
+  "nombre": "Leupold",
+  "apellido": "Fairs",
+  "email": "lfairs5@gnu.org"
+}, {
+  "id": 7,
+  "nombre": "Eustace",
+  "apellido": "Gronowe",
+  "email": "egronowe6@jugem.jp"
+}, {
+  "id": 8,
+  "nombre": "Ursola",
+  "apellido": "Siggers",
+  "email": "usiggers7@latimes.com"
+}, {
+  "id": 9,
+  "nombre": "Maggi",
+  "apellido": "Daout",
+  "email": "mdaout8@goodreads.com"
+}, {
+  "id": 10,
+  "nombre": "Garth",
+  "apellido": "Bickersteth",
+  "email": "gbickersteth9@zimbio.com"
+}],
+}
