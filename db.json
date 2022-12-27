@@ -7,11 +7,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
-},
-"usuarios" :
-{ [
-    {
+  },
+  "usuarios" : 
+  [
+  {
   "id": 1,
   "nombre": "Ethyl",
   "apellido": "Chatan",
