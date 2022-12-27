@@ -11,27 +11,57 @@
   "profile": {
     "name": "typicode"
   },
-  "lista": [
+  "usuarios": [
    {
-      "id": 1,
-      "titulo": "Compras",
-      "subtitulo": "Detalle de compras",
-      "descripcion": "Aqui va el contenido relacionado a las compras",
-      "color": "primary"
-   },
-   {
-      "id": 2,
-      "titulo": "Ventas",
-      "subtitulo": "Detalle de ventas",
-      "descripcion": "Aqui va el contenido relacionado a las ventas",
-      "color": "success"
-   },
-   {
-      "id": 3,
-      "titulo": "Proveedores",
-      "subtitulo": "Detalle de proveedores",
-      "descripcion": "Aqui va el contenido relacionado a proveedores",
-      "color": "info"
-   }
+  "id": 1,
+  "nombre": "Jeana",
+  "apellido": "Peskin",
+  "email": "jpeskin0@engadget.com"
+}, {
+  "id": 2,
+  "nombre": "Siobhan",
+  "apellido": "Malthus",
+  "email": "smalthus1@un.org"
+}, {
+  "id": 3,
+  "nombre": "Juline",
+  "apellido": "Prando",
+  "email": "jprando2@dagondesign.com"
+}, {
+  "id": 4,
+  "nombre": "Candie",
+  "apellido": "Blade",
+  "email": "cblade3@naver.com"
+}, {
+  "id": 5,
+  "nombre": "Elonore",
+  "apellido": "Gladebeck",
+  "email": "egladebeck4@soundcloud.com"
+}, {
+  "id": 6,
+  "nombre": "Gallard",
+  "apellido": "Eckford",
+  "email": "geckford5@sfgate.com"
+}, {
+  "id": 7,
+  "nombre": "Wally",
+  "apellido": "Beecroft",
+  "email": "wbeecroft6@zimbio.com"
+}, {
+  "id": 8,
+  "nombre": "Fanny",
+  "apellido": "Opfer",
+  "email": "fopfer7@imgur.com"
+}, {
+  "id": 9,
+  "nombre": "Pauline",
+  "apellido": "Iacovides",
+  "email": "piacovides8@tinypic.com"
+}, {
+  "id": 10,
+  "nombre": "Zebedee",
+  "apellido": "Eddow",
+  "email": "zeddow9@sakura.ne.jp"
+}
 ]
 }
