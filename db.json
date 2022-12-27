@@ -1,4 +1,6 @@
-{"usuarios":[{
+{
+  "usuarios": [
+    {
   "id": 1,
   "nombre": "Ethyl",
   "apellido": "Chatan",
@@ -48,5 +50,6 @@
   "nombre": "Garth",
   "apellido": "Bickersteth",
   "email": "gbickersteth9@zimbio.com"
-}],
+}
+  ],
 }
